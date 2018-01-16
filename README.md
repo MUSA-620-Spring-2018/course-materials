@@ -29,6 +29,8 @@ For the final project, students will replicate the pipeline approach on a datase
 
 The grading breakdown is as follows: 50% for homework; 40% for final project, 10% for participation
 
+There will be five required homework assignments, due at the beginning of class. Late homework will be accepted for up to one week after the deadline and will be deducted 10%. Credit will not be given for homework that is late by more than one week.
+
 #### SOFTWARE
 
 This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions.
