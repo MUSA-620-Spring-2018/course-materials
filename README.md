@@ -41,3 +41,23 @@ There will be five required homework assignments, due at the beginning of class.
 #### SOFTWARE
 
 This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions. For geospatial topics, we will also use QGIS.
+
+#### SCHEDULE
+
+| Class # | Date | Topic | Notes |
+|-----|------|-------|-------|
+| Week 1 | Jan 16 | [ggplot2, QGIS, data visualization fundamentals](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1) | [Slides](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1/blob/master/week-1-data-visualization.pptx) |
+| Week 2 | Jan 23 | ggplot2 continued, data frames, tidyverse ||
+| Week 3 | Jan 30 | Geocoding/mapping: ggmap, sf (simple features) package ||
+| Week 4 | Feb 6 | Databases: Postgres, PostGIS, SQL ||
+| Week 5 | Feb 13 | Web scraping 1: The DOM, web inspector, and parsing HTML ||
+| Week 6 | Feb 20 | Web scraping 2: AJAX, scraping dynamic pages ||
+| Week 7 | Feb 27 | Unstructured data: Twitter API ||
+| Spring Break|
+| Week 8|Mar 13| Natural language processing: sentiment analysis||
+| Week 9|	Mar 20| Advanced data visualization||
+|Week 10|	Mar 27	| Interactive maps: Leaflet||
+|Week 11|	Apr 3		 | Flex / Shiny||
+|Week 12	|Apr 10		| Shiny ||
+|Week 13	|Apr 17		| Shiny ||
+|Week 14	|Apr 24		|In-class work on final projects||
