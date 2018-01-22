@@ -4,7 +4,7 @@
 
 Class: Tuesdays from 9am to 12pm in Meyerson Hall, room B2.
 
-Office hours: TBD. Email galkamaxd at gmail to schedule a time.
+Office hours: Thursdays from 5pm to 8pm. Email galkamaxd at gmail to schedule a time.
 
 #### OBJECTIVE
 
@@ -33,4 +33,4 @@ There will be five required homework assignments, due at the beginning of class.
 
 #### SOFTWARE
 
-This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions.
+This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions. For some geospatial topics, we will also use QGIS.
