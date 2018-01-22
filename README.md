@@ -6,6 +6,8 @@ Class: Tuesdays from 9am to 12pm in Meyerson Hall, room B2.
 
 Office hours: Thursdays from 5pm to 8pm. Email galkamaxd at gmail to schedule a time.
 
+TA: Evan Cernea (ecernea at sas dot upenn dot edu).
+
 #### OBJECTIVE
 
 The purpose of this course is to familiarize students with the “pipeline” approach to data science. This involves the process of gathering data, storing the data, analyzing the data, and visualizing the data such that non-technical decision makers can make sense of it. The course is broken down accordingly into four sections.
@@ -23,7 +25,12 @@ The course will be conducted in weekly sessions devoted to lectures, demonstrati
 
 There is one required final project at the end of the semester. Homework will be assigned before the close of class and will be due at the end of the following week’s class. Five of the homework assignments will be explicitly required. The remainder are optional, but will count toward the participation component of your final grade.
 
-For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization).
+For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization). [Description of last year's final project assignment.](https://github.com/MUSA-620-Fall-2017/final-project)
+
+Assignment Q&A:
+- If you get stuck, the first step should always be to see if you can find the answer to your question online. In particular, [Stack Overflow](https://stackoverflow.com/), [Stack Exchange: GIS](https://gis.stackexchange.com/), and the rest of the Stack Exchange family are great resources.
+- You are encouraged to ask [and answer] questions via the Slack channel as opposed to email, in case other students will have also have the same question.
+- Evan and I are available for in depth discussion about assignment during office hours. 
 
 #### GRADING
 
@@ -33,4 +40,4 @@ There will be five required homework assignments, due at the beginning of class.
 
 #### SOFTWARE
 
-This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions. For some geospatial topics, we will also use QGIS.
+This course relies on use of the R Statistical Package in conjunction with Shiny and other associated extensions. For geospatial topics, we will also use QGIS.
