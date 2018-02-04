@@ -48,8 +48,8 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 |-----|------|-------|-------|
 | Week 1 | Jan 16 | [ggplot2, QGIS, data visualization fundamentals](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1) | [Slides](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1/blob/master/week-1-data-visualization.pptx) |
 | Week 2 | Jan 23 | [Data frames, tidyverse, map projections](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2) |[Slides](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2/blob/master/week-2-map-projections-data-frames.pptx)|
-| Week 3 | Jan 30 | Geocoding/mapping: ggmap, sf (simple features) package ||
-| Week 4 | Feb 6 | Databases: Postgres, PostGIS, SQL ||
+| Week 3 | Jan 30 | [Geocoding/mapping: ggmap, sf (simple features) package](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-3) ||
+| Week 4 | Feb 6 | [Databases: Postgres, PostGIS, SQL](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4/blob/master/README.md) ||
 | Week 5 | Feb 13 | Web scraping 1: The DOM, web inspector, and parsing HTML ||
 | Week 6 | Feb 20 | Web scraping 2: AJAX, scraping dynamic pages ||
 | Week 7 | Feb 27 | Unstructured data: Twitter API ||
