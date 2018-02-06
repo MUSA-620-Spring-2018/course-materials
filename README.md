@@ -44,20 +44,20 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 
 #### SCHEDULE
 
-| Class # | Date | Topic | Notes |
+| Class # | Date | Topic | Homework |
 |-----|------|-------|-------|
-| Week 1 | Jan 16 | [ggplot2, QGIS, data visualization fundamentals](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1) | [Slides](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1/blob/master/week-1-data-visualization.pptx) |
-| Week 2 | Jan 23 | [Data frames, tidyverse, map projections](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2) |[Slides](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2/blob/master/week-2-map-projections-data-frames.pptx)|
+| Week 1 | Jan 16 | [ggplot2, QGIS, data visualization fundamentals](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1) |  |
+| Week 2 | Jan 23 | [Data frames, tidyverse, map projections](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2) |Assign HW 1|
 | Week 3 | Jan 30 | [Geocoding/mapping: ggmap, sf (simple features) package](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-3) ||
-| Week 4 | Feb 6 | [Databases: Postgres, PostGIS, SQL](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4) ||
-| Week 5 | Feb 13 | Web scraping 1: The DOM, web inspector, and parsing HTML ||
-| Week 6 | Feb 20 | Web scraping 2: AJAX, scraping dynamic pages ||
-| Week 7 | Feb 27 | Unstructured data: Twitter API ||
+| Week 4 | Feb 6 | [Databases: Postgres, SQL](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4) ||
+| Week 5 | Feb 13 | Databases: PostGIS, spatial queries |Assign HW 2|
+| Week 6 | Feb 20 | Web scraping 1: The DOM, web inspector, and parsing HTML ||
+| Week 7 | Feb 27 | Web scraping 2: AJAX, scraping dynamic pages |Assign HW 3|
 | Spring Break|
-| Week 8|Mar 13| Natural language processing: sentiment analysis||
-| Week 9|	Mar 20| Advanced data visualization||
-|Week 10|	Mar 27	| Interactive maps: Leaflet||
-|Week 11|	Apr 3		 | Flex / Shiny||
-|Week 12	|Apr 10		| Shiny ||
+| Week 8|Mar 13| Unstructured data: Twitter API||
+| Week 9|	Mar 20| Natural language processing: sentiment analysis|Assign HW 4|
+|Week 10|	Mar 27	| Advanced data visualization||
+|Week 11|	Apr 3		 | Interactive maps: Leaflet||
+|Week 12	|Apr 10		| Shiny |Assign HW 5|
 |Week 13	|Apr 17		| Shiny ||
 |Week 14	|Apr 24		|In-class work on final projects||
