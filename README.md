@@ -44,7 +44,7 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 
 #### SCHEDULE
 
-| Class # | Date | Topic | Homework |
+| Class # | Date | Topic | Homework* |
 |-----|------|-------|-------|
 | Week 1 | Jan 16 | [ggplot2, QGIS, data visualization fundamentals](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-1) |  |
 | Week 2 | Jan 23 | [Data frames, tidyverse, map projections](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2) |Assign HW 1|
@@ -61,3 +61,5 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 |Week 12	|Apr 10		| Shiny |Assign HW 5|
 |Week 13	|Apr 17		| Shiny ||
 |Week 14	|Apr 24		|In-class work on final projects||
+
+* Assignment dates of homework are tentative and subject to change
