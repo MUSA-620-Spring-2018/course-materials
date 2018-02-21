@@ -4,7 +4,7 @@
 
 Class: Tuesdays from 9am to 12pm in Meyerson Hall, room B2.
 
-Office hours: Thursdays from 5pm to 8pm. Email galkamaxd at gmail to schedule a time.
+Office hours: Monday from 5pm to 8pm. Email galkamaxd at gmail to schedule a time.
 
 TA: Evan Cernea (ecernea at sas dot upenn dot edu).
 
@@ -23,7 +23,7 @@ The course will be conducted in weekly sessions devoted to lectures, demonstrati
 
 #### ASSIGNMENTS
 
-There is one required final project at the end of the semester. Homework will be assigned before the close of class and will be due at the end of the following week’s class. Five of the homework assignments will be explicitly required. The remainder are optional, but will count toward the participation component of your final grade.
+There is one required final project at the end of the semester. Homework will be assigned before the close of class and will be due the following Tuesday by the end of day. Five of the homework assignments will be explicitly required. The remainder are optional, but will count toward the participation component of your final grade.
 
 For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization). [Description of last year's final project assignment.](https://github.com/MUSA-620-Fall-2017/final-project)
 
