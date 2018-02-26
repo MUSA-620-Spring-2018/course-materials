@@ -4,7 +4,7 @@
 
 Class: Tuesdays from 9am to 12pm in Meyerson Hall, room B2.
 
-Office hours: Monday from 5pm to 8pm. Email galkamaxd at gmail to schedule a time.
+Office hours: Monday from 4pm to 7pm. Email galkamaxd at gmail to schedule a time.
 
 TA: Evan Cernea (ecernea at sas dot upenn dot edu).
 
