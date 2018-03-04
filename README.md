@@ -1,12 +1,14 @@
-## MUSA 620 - Data Wrangling and Data Visualization
+## MUSA 620 - Data Wrangling and Data Visualization<br>University of Pennsylvania, School of Design
 
 #### SCHEDULING
 
-Class: Tuesdays from 9am to 12pm in Meyerson Hall, room B2.
+**Class:** Tuesdays from 9am to 12pm in Meyerson Hall, room B2.
 
-Office hours: Monday from 4pm to 7pm. Email galkamaxd at gmail to schedule a time.
+**Office hours:** Monday from 4pm to 7pm. Email galkamaxd at gmail to schedule a time.
 
-TA: Evan Cernea (ecernea at sas dot upenn dot edu).
+**Instructor:** Max Galka (galkamaxd at gmail dot com)
+
+**TA:** Evan Cernea (ecernea at sas dot upenn dot edu)
 
 #### OBJECTIVE
 
