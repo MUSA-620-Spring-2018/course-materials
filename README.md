@@ -50,9 +50,9 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 | Week 2 | Jan 23 | [Data frames, tidyverse, map projections](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-2) |Assign HW 1|
 | Week 3 | Jan 30 | [Geocoding/mapping: ggmap, sf (simple features) package](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-3) ||
 | Week 4 | Feb 6 | [Databases: Postgres, SQL](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-4) ||
-| Week 5 | Feb 13 | Databases: PostGIS, spatial queries |Assign HW 2|
-| Week 6 | Feb 20 | Web scraping 1: The DOM, web inspector, and parsing HTML ||
-| Week 7 | Feb 27 | Web scraping 2: AJAX, scraping dynamic pages |Assign HW 3|
+| Week 5 | Feb 13 | [Databases: PostGIS, spatial queries](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-5) |Assign HW 2|
+| Week 6 | Feb 20 | [Web scraping 1: The DOM, web inspector](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-6) ||
+| Week 7 | Feb 27 | [Web scraping 2: CSS selectors, scraping dynamic pages](https://github.com/MUSA-620-Spring-2018/MUSA-620-Week-7) |Assign HW 3|
 | Spring Break|
 | Week 8|Mar 13| Unstructured data: Twitter API||
 | Week 9|	Mar 20| Natural language processing: sentiment analysis|Assign HW 4|
