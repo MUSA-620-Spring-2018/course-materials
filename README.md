@@ -27,7 +27,9 @@ The course will be conducted in weekly sessions devoted to lectures, demonstrati
 
 There is one required final project at the end of the semester. Homework will be assigned before the close of class and will be due the following Tuesday by the end of day. Five of the homework assignments will be explicitly required. The remainder are optional, but will count toward the participation component of your final grade.
 
-For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization). [Description of last year's final project assignment.](https://github.com/MUSA-620-Fall-2017/final-project)
+For the final project, students will replicate the pipeline approach on a dataset (or datasets) of their choosing. The final deliverable will be a web-based data visualization and accompanying description including a summary of the results and the methods used in each step of the process (collection, storage, analysis and visualization).
+
+[Final assignment](https://github.com/MUSA-620-Spring-2018/final-project)
 
 Assignment Q&A:
 - If you get stuck, the first step should always be to see if you can find the answer to your question online. In particular, [Stack Overflow](https://stackoverflow.com/), [Stack Exchange: GIS](https://gis.stackexchange.com/), and the rest of the Stack Exchange family are great resources.
@@ -65,3 +67,5 @@ This course relies on use of the R Statistical Package in conjunction with Shiny
 |Week 14	|Apr 24		|In-class work on final projects||
 
 * Assignment dates of homework are tentative and subject to change
+
+[Final assignment](https://github.com/MUSA-620-Spring-2018/final-project)
